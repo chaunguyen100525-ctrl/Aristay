@@ -1,0 +1,8 @@
+# Backup files
+backups/
+*.sql.gz
+*.dump
+
+# Temporary files
+*.tmp
+*.log
